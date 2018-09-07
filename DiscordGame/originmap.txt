@@ -1,0 +1,24 @@
+ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!"£$%^&*
+A               -_   _  ___ __  _                                      
+B           - _-\     \-EEEEEE-/      _--_   _--     --_-_-    ---     
+C  /---\_/------- \    --EEEE--      /EE/ -|-_\_/-/-RRRRRR-----------_ 
+D  /AAAAAAAAAAAAAAA-/     -\E-- _  - -///EEEEEE/RRRRRRRRRRRRRRRRRRRRR/-
+E  -/---\_-AAAAAAAAA-|     -   -  E\ /-EEEEEE/RRRRRRRRRRRRRRR/_  /-    
+F_--      -|AAAAAAAA---\          _E-EEEEEEEE\RRRRRRR___----II/|       
+G          -\AAAAAAAA/--          |//-\EEEEEEE\-----/IIIIIIII/ |       
+H           |AAAAAAA/            __/--\___ |E/IIIIIIIIIIII\ ) I        
+I            \AAAAA-\           -/FFFFFFFF|\  \IIIIIIIIIII/  /         
+J             -\A|-  --_      - |FFFFFFFFFFF\_- -|II/\  \/ -           
+K               --S-  _S       -\FFFFFFFFFFFFF-    \-- /\/  |          
+L                 \S_SSS\_       \FFFFFFFFFFF/-    -  |- /O-           
+M                   /SSSSS\_       - |FFFFFF/         O  /O- --O-\     
+N                   |SSSSSSS-\        |FFFF|          \OO/  O/ O/OO\   
+O                    \SSSSSSS/        \FFFF/ /|             _ __  \OO\ 
+P                     |SSSSS/          |FF|  |/           /OOOOO\  \OO 
+Q                    -|SSSS/           \FF/              \OOOOOOO|     
+R                    /SSSS|                               \OOOOO/      
+S                    |SSSS-                                            
+T                    /SS-                                              
+U                    \S|  -                                            
+V                      --                                              
+W                                                                      
