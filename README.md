@@ -17,3 +17,5 @@ Same use case as RedditUserCommentHistoryDump. Useful I guess.
 A raspberry pi project to make a working walkman-style raspberry pi device. Lost motivation.
 # chunkyLogoScrap 
 A project to scrape SVG/JPEG files from webpages. Never went anywhere. Sadly most websites don't use SVGs due to how they are handled different from browser to browser(Slightly but significantly enough).
+# LocationLootViewer
+Loot viewer for a dead minecraft multiplayer server called MineZ. Useless and terrible code.
