@@ -21,3 +21,5 @@ A project to scrape SVG/JPEG files from webpages. Never went anywhere. Sadly mos
 Loot viewer for a dead minecraft multiplayer server called MineZ. Useless and terrible code.
 # ShoddyAutoGuiCheats
 Bad games deserve bad cheaters.
+# Firkit
+A small set of wifi scripts. A reverse shell server/client script. A netsh wifi keys emailer.
