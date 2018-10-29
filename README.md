@@ -25,3 +25,5 @@ Bad games deserve bad cheaters.
 A small set of wifi scripts. A reverse shell server/client script. A netsh wifi keys emailer.
 ## BrowserWipe
 A few batch scripts to kill cookies and local data
+## mp4Splitter
+Splits an input mp4 file in half, and writes the last half to storage. Probably works with other filetypes too
