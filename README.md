@@ -27,3 +27,9 @@ A small set of wifi scripts. A reverse shell server/client script. A netsh wifi 
 A few batch scripts to kill cookies and local data
 ## mp4Splitter
 Splits an input mp4 file in half, and writes the last half to storage. Probably works with other filetypes too
+
+Depends on moviepy module being installed.
+
+`pip install moviepy`
+
+Then run the .py file in commandline with `python mp4Splitter.py`
