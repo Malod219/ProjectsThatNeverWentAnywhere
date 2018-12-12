@@ -77,9 +77,9 @@ datalist=[]#Declarations of lists
 with urllib.request.urlopen('https://shotbow.net/forum/wiki/minez-locations/') as gay:
     html=gay.read()
     htmls=html.decode()
-    a,b=htmls.split('<h2><a name="locations">')
-    c,d=b.split('<h2><a name="removed-locations">')
-    html=c.encode()#Splits the html page accordingly, so that only locations are listed(Removes top/bottom of page)
+    b=htmls.split('<h2><a name="locations">')
+    c=b[0].split('<h2><a name="removed-locations">')
+    html=c[0].encode()#Splits the html page accordingly, so that only locations are listed(Removes top/bottom of page)
 soup= BeautifulSoup(html, "html.parser")#Creates some soup to parse
 for link in soup.find_all('a'):
     loclist.append(link.get('href'))
