@@ -1,0 +1,845 @@
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: MONARCH'S BIRTHDAY CELEBRATED. OLD PEOPLE FACEBOOK SPAMMED.
+
+ASPERMONT, WESTERLANDS- The Second Reigning Monarch of the UNKNOWN [?] Trading Company, Camisadoluvr celebrated her birthday on the 20th of November whose facebook was then proceeded to be spammed with things that didn't relate at all to the Monarch's birthday, in an elaborate joke that's supposed to be about "We don't remember your birthday." or something.
+
+They were all executed the following day.
+
+Dog Bless the UTC and all her institutions that a lot of youngings don't remember. Camisadoluvr was the chosen candidate next to Queen Aster of Svalbard and Norway, from the player Asterthemaster. Camisadoluvr was chosen as barely anyone remembers Aster and more people are familiar with and sympathize with Camisadoluvr.
+
+___
+
+EDITORIAL - Editorial Pi(There is no Title)
+
+Pi - Alright you morons. Since quite clearly too few of you give a fuck about security, I'm gonna walk you through physical security and how easy it is in some(Surprisingly many) situations. It's time for some PHYSICAL SECURITY 101.
+
+Lock your doors. If you leave it unlocked you're asking to be fucked. Lock your doors with non-standard locks, aka locks that don't accept a default key. Default keys exist for a LOT of shit. If you use a default key, you're asking for an educated robber to fuck you(Default keys are typically used for Air conditioning, Boiler rooms, kitchens etc, especially in hotels). Use locks that are hard enough to be picked. Picking locks is obvious as fuck, so(if you live on a busy enough street or have decent neighbours who give a fuck), most people won't do that. Lock your windows and close them. I've seen CCTV of morons who get robbed just because they left their window or their door unlocked or viable to be unlocked in an easy way. IF YOU'VE EVER USED A DEFAULT LOCK, LEFT DOORS OR WINDOWS UNLOCKED OR OPEN, YOU'VE FAILED PHYSICAL SECURITY 101. It's a known statistic that 20 per cent of burglaries in England and Wales from April 2005 to March 2015 involved access through unlocked doors and open windows. 1/5 of Burglaries are so simple it's sad..
+
+Some other physical security things. Close your doors inside, makes it harder to be scouted for whether a building is occupied or not(or for valuables). Have a suitably fenced off backyard/frontyard/alleyway if you have any of those things. Lock garages properly and securely. If they are disconnected from the building, I'd say don't store valuables in them(your risk if you do). Information considering how secure you are in your house depends on your context and situation as it always does. Consider the crime rate in your neighbourhood, consider other access points, consider how many keys to your room/house are in circulation(If you bought it off of a person, chances are that person gave keys to their family/friends who can access the house, meaning they can technically still access it unless you got new locks).
+
+More miscellaneous physical security stuff. RFID locks are secure, but only if your RFID cards are secure. RFID cards can be cloned, I've done it before(for ease of access in case I lose University cards or bus pass cards and a few others). Invest in properly secured and bolted down safe if you're storing enough valuable shit in your house(or use security through obscurity and store it inside a book you carve out). Internet of things devices are insecure and can be hacked to gain access(Largest botnet is due to insecure internet of things devices. People just don't update security for those devices.).
+
+Now for zany wacky stories in Physical security. Y'know those cameras which open on the inside if there's activity? They just check for infrared and not position of it(Some luxurious expensive ones check position/size but those can still be tricked). How to bypass? Vape. Load a lot of smoke in your mouth, breath it in the cracks up to the sensor. Looks like magic when it happens. If a door is locked on one side but unlocked on the other, tools exist to pull the lever on the other side(fairly common in offices). Finally, dumpster diving? Exciting stuff, you never know what you're gonna find. Sometimes electronics, sometimes furniture, sometimes video games n' shit. It's also a known fact that data can be leaked this way, it's low tech hacking. Dumpster dive behind an office building to find sensitive data. Usually it can be sold off or whistleblown if it's big enough. Also harddrives and other memory storage devices aren't a good idea to be thrown out without thorough demolition with explosives or hammers. People surprisingly don't securely delete data.
+
+That's all the objective shit about physical security. Now for a few things that piss me off. Firstly, is police and related resource allocation. It has to be done through shitty petition through the slow lumbering beast that is the Government. Yeah, private security exists at an extortionate price typically accepted by a few private security companies. This fact means the common person is going to see misallocation of police forces, failing to keep the common person secure. Is there a fix? I don't exactly know, due to the number of variables involved in creating a pressure that forces or allows for corrected allocation based on demand. The reason this pisses me off is I see 3 core important needs for Human Survival: Food, Water and Security(Shelter is a form of security from weather and sometimes animals).
+
+That's all Unknowns. Hopefully you leave this News feeling a little more enlightened in the specifics of PHYSICAL SECURITY. If it's failed, the consequences are devastating
+
+Final notes: Effort and time required to infiltrate, steal, cause chaos or whatever plays a factor. People go for low hanging fruit. Social Engineering and Cyber Security can play a part.
+
+Recommended learning for Security(Generalised):
+
+    Talks do exist on the subject for the curious
+
+    Some of the stuff in this list of books might be relevant
+
+    Where I go for general security discussions
+
+    A-Z of home security, Home Security handbook
+
+    Rigged shotgun ___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has cancelled the Trade Run for Maneuvers
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+2 Power II Punch I Bows
+
+In Exchange For
+
+1 buttons
+
+Come find Irishkaiser in the woods and get a power II bow.
+
+___
+
+PvP Drill 145th Mass PvP Event - REHEARSALS IN PREPARATION
+
+Company Members and Volunteers from outside the Company rehearsed particular maneuvers in anticipation for a major event. That is all. Get outta here.
+
+ALSO. WHAT WE DID AT THE END. ALL PARTICIPANTS ARE TO REMEMBER IT AS "SAY HI". YOU WILL KNOW WHAT IT MEANS
+
+SAY HI! o/
+
+___
+
+DOMESTIC - NEW MARKETS EXPAND PET PROJECT STALLED BY EXPANSION
+
+An expansion of the New Markets has delayed it as the certain policy of the pet project has not anticipated so many people from different backgrounds and different.
+
+___
+
+DOMESTIC - RESOURCES STILL IN DEMAND AS BASE CONTINUES TO BE WORKED ON
+
+5 Iron Armor Sets, 3 Diamond Swords are still in demand,
+
+___
+
+DOMESTIC - HOME OFFICE PREPARES.
+
+The Home Office has given orders to particulars and telling people to do certain stuff culminating in major maneuvers that were conducted last week.
+
+Foreign Office provided the support necessary and the censorship essential to make sure things don't get published.
+
+___
+
+FINANCE - NOW'S MARKET UNDERVALUE SEEN AS OPPORTUNITY
+
+The past couple of months have been terrible for the NOW Company but market's perception has so undervalued it that it is actually seen as an opportunity by the Clan Bank to find profit in it when people will realize(or REMEMBER) its actual worth as a solid and stable company. This method is taken from Warren Buffett.
+
+The shares and stock prices for NOW are currently bottoming out. The trick would be to find the perfect bottom then we lie and wait.
+
+___
+
+* **ORDERS:***
+
+1) TRADE RUN NEXT WEEK
+
+1) 3 IRON ARMOR SETS. 3 DIAMOND SWORDS. ANY GLOWSTONE IF YA'LL NIGGAS HAVE.
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH
+
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: FOREIGN OFFICE EMPLOYEES AWARDED FOR THEIR SERVICE SINCE
+
+ASPERMONT, WESTERLANDS- Irishkaiser survived another assassination attempt today after giving a speech on the 11th of November regarding the secret world of Shadowhall, awarding them for their service and implying credit for efforts that the UNKNOWN [?] Trading Company officially remains ambiguous and or outright denies.
+
+Sources say the Foreign Office had no hand in it since he was praising them after all. Certainly, minister... We will try harder next time to ensure your security, as long as said minister complies with the requirements for us to execute your agendas, which we must stress needs you to be most discreet.
+
+___
+
+EDITORIAL - 100th Anniversary of the End of the Old.
+
+Irishkaiser - The Great War impacted many nations, regardless of their degree of participation(Japan and the United States). The old power structure was broken and a new world had to be built, which must learn to accommodate the new realities of the day.
+
+Countless independence for many nations, Soviet emergence, autonomous Commonwealth movements, American participation and resignation from global affairs, Japanese naval dominance of the Far East, the end of three empires and the stage for an even bigger impact known as the Second World War.
+
+Truly the Great War set the course of the 20th century as the Napoleonic Wars did in the past for it decided the reality and fate of nations. But what did it achieve? We know that the Napoleonic Wars ended confidence in feudalistic traditions such as aristocratic supremacy. A nation was more than a king lording over a people, it was a group that felt common affinity and loyalty. That changed the way nations were governed.
+
+What did the Great War achieved? Well, firstly... There was a disillusionment with the promises of government. Power was no longer securely coming from the older classes, but rather from politicians and officials from outside the tainted clique of the buffoons who got them into that catastrophe in the first place.
+
+This was the most important as it help facilitated the rise of both National Socialist Germany and Soviet Russia and helped guide the course of the Second World War. Communist revolutions broke out everywhere and counter-revolutions also broke out.
+
+Secondly, the first true body of a global forum was set up - the League of Nations. The Concert of Europe only concerned the Great Powers who were mostly of European origin. But now, China, Japan and the US had entered the fray of global power politics and thus new dynamic zones sprung around the world, forcing everyone to talk to each other because they were so important.
+
+Third and perhaps the most important, it was the despondence of a generation now known today as the "Lost Generation" in the English speaking world and the Generation au Feu(Generation in Flames) in the Francophones. This was a generation that did not at all see any bright hope for the future, rather, they had an eerie bad feeling about it. A kind of nihilism that fed the ALL OR NOTHING attitude and gave appeal to Communist slogans such as "You have nothing to lose but your chains."
+
+Of course the degrees of it were different as they were radical in say Russia, but less radical in countries like the US and Britain. In Britain, the concern was more for the TOTALLY DISPROPORTIONATE AMOUNT OF UPPER-CLASS ARISTOCRATS WHO DIED DURING THE WAR, robbing the country of a future elite. Many felt that the flower of youth and the best manhood of the peoples had been mowed down.
+
+But as we all know here in the UTC, regardless of the outcome. The Best Is Yet to Come. Yadda yadda, join my new markets and apply for a visa
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has delivered
+
+1 Iron Armor Set
+
+2 Iron Swords
+
+1 Power I Punch I Bow
+
+1 Iron Helmet
+
+In Exchange For
+
+4 Buttons
+
+Information
+
+This trade run was a scouting trade run, designed to find out the best times people get on MineZ oh and questioning others on the streets with surveys. Earlier before a daylight savings miscoordination mishap happened. Oh well. BUT ONEZEDARMY DOESN'T NEED TO TELL YOU ABOUT THAT, DOESN'T HE.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+1 Iron Leggings
+
+In Exchange For
+
+2 bandages
+
+I found some guy on the streets of Clarce and was like "Eh, why the fuck not?"
+
+___
+
+PvP Drill 145th Mass PvP Event - Nuffen
+
+I dindu nuffen
+
+___
+
+DOMESTIC - ALTS OFFERED TO VISA-APPROVED PEOPLE
+
+Alts are being offered to people without them to take part in Irishkaiser's pet project. The alts are safe and legitimate and they will be used to help give people a "home" in MineZ all in all to help facilitate the New Markets.
+
+___
+
+DOMESTIC - RESOURCES STILL IN DEMAND AS BASE CONTINUES TO BE WORKED ON
+
+5 Iron Armor Sets, 3 Diamond Swords are still in demand,
+
+___
+
+DOMESTIC - SUPPLY RUNS TO REPLACE WAR GAMES
+
+As MineZ dies down in PvP, a better option is to replace war games with supply runs to help support the new markets growing elsewhere and help our economy. But fuck everyone else. Our mission is to destroy everyone else's economy.
+
+___
+
+FINANCE - TWO BREAKOUTS IN ONE DAY
+
+About a thousand dollars acquired in two days. I AM NOT FUCKING JOKING. RULES OF NATURE. AND THEY RUN WHEN THE SUN COMES UP..!
+
+___
+
+FINANCE - NO ONE ATTENDS MY CLASSES
+
+Looks like no one here has the balls to learn about finance.
+
+___
+
+* **ORDERS:***
+
+1) SUPPLY RUN NEXT WEEK. ___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: DIRECTOR PLANS TO IMPLEMENT VISA SYSTEM FOR PET PROJECT
+
+ASPERMONT, WESTERLANDS- Irishkaiser plans to implement a "visa" like system to help facilitate his pet project of establishing "new markets" in MineZ. This visa system will be completely separate from the Imperial Citizen system and therefore does not give Company Members or Regimentals privileges over them.
+
+One has to apply for a "visa" to be able to participate in the New Markets being built under the auspices of the 1st Regiment "Westerlands", who will also function as Visa Officers and deciding who gets to have one or not.
+
+Requirements will be kept a secret as each Visa Officer will review anyone who wants to participate.
+
+WE PAPERS PLEASE NOW.
+
+___
+
+EDITORIAL - INTERNATIONAL LOOPHOLES
+
+Irishkaiser - A lot of people remember the movie Lord of War and particularly this scene that helped spread the truth about international arms sales loopholes that still pervade the modern trade.
+
+In the scene, Jack Valentine of Interpol acknowledges the loophole - that of shipping the vehicle and weapons separately to different clients at different addresses(but who can say where they will end up for sure?) - is valid but threatens Yuri that he may keep doing it but it's obviously so ridiculous that the United Nations will "close it any Goddamn day".
+
+Yuri counters by saying "But it's not closed." and what makes this scene age well up to today is this: that certain loophole IS STILL NOT CLOSED UP TO THIS DAY. In the modern day, major powers and arms exporters still use the same loophole by shipping vehicles and its "military parts" separately just like in the movie and nobody bats an eye.
+
+It is how countries still manage to support governments you think would have collapsed a long time ago. None of this is repeated in modern news media because the biggest arms dealer in the world is not some guy operating outside the law, it's the President of the United States, the President of Russia, President of China, Prime Minister of Britain, President of France... And even emerging powers such as Germany is in on it.
+
+Is it... Weird... That somehow... The big five... Are also the FIVE PERMANENT MEMBERS THAT SIT ON THE UNITED NATIONS SECURITY COUNCIL. YOU KNOW, THE ORGANIZATION THAT FRONTS FOR GLOBAL PEACE AND LIMITATIONS OF WAR SOMEHOW NOT WANT TO CLOSE DOWN THIS LOOPHOLE?
+
+Kind of suspicious, don'tcha think...
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has delivered
+
+1 Iron Armor Set
+
+2 Iron Swords
+
+1 Power I Punch I Bow
+
+In Exchange For
+
+3 Buttons
+
+1 Hoe
+
+A trade run with a scout. Haven't had those in a long while. And this is also the first trade run where we will officially abandon potions as a currency denominator and instead use buttons.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+3 Cakes
+
+In Exchange For
+
+Fuck if I know what you got
+
+Should've told me.
+
+___
+
+PvP Drill 145th Mass PvP Event - Nuffen
+
+I dindu nuffen
+
+___
+
+DOMESTIC - COMPANY ABANDONS POTIONS AS BASIS. BUTTONS SUBSTITUTED
+
+The health potion, the Company's main currency denominator since 2012 has been officially abandoned and in its place buttons and other such tools shall take its place. The reason being that potions are a dime a dozen in this game and is even sold off as part of exported battle inventories that it doesn't make sense to accept them in the first place.
+
+In its stead buttons are being used as they offer access to locked parts of the game.
+
+___
+
+DOMESTIC - NEW BASE ESTABLISHED. RESOURCES DEMANDED
+
+The new base to help facilitate the new markets has been established but needs just a bit more resources. 5 Power II bows have been delivered, now all it needs is a couple of Iron Armor Sets and three more diamond swords. Glowstone supplies are also to be redirected to the new base.
+
+In addition, in the future, if the resources in the new markets are met with demand, maybe a supply run shall replace the trade run every couple of weeks.
+
+___
+
+FINANCE - *VERGATH RETURNS FROM VIETNAM TO ASSUME COMMAND OF THE FLEET
+
+Did the same things I did when I was in Vietnam. Loved Halong Bay.
+
+___
+
+FINANCE - *SPYWARE TO TEACH STOCKS IN APPRENTICE SYSTEM
+
+Captain Spyware of the BOOMER FLEETS looks for apprentice recruits to function as midshipman in the UTC whom he will teach the basics to and assist him by cutting down his work and doing the simple things. Join le fleet.
+
+___
+
+FINANCE - WHEN YOU LOCK IN THE SAME CHARACTER IN A GAME
+
+Get ready for the next battle
+
+___
+
+* **ORDERS:***
+
+1) Trade Run Next Week
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: SPOOKYFEST PROJECT DEEMED MOST SUCCESSFUL
+
+ASPERMONT, WESTERLANDS- After analysis of gains-to-effort ratio, the UNKNOWN [?] Trading Company has gained so much that it desires to convert the Spookyfest loot into credit from the people whom it helped rather than store it in their alts in the first place.
+
+Certain experience was also gained in which the Foreign Office and the Home Office has acquired which is deemed most invaluable, especially by the Foreign Office. In addition to overt support, covert support was provided that tipped the scales and protected its clients, ensuring not only their success but the success of the UNKNOWN [?] Trading Company.
+
+More senior Company Members begin throwing garbage on the streets of Aspermont filled with Spookyfest loot going like "What is this garbage" by returning mercenaries who shared it with them. They later proceeded to do productive things.
+
+___
+
+EDITORIAL - The Purchase System wasn't all that bad.
+
+Irishkaiser - In many movies and literature concerning the Age of Gunpowder, we have seen the British Army of the time staff its officer corps with bumbling upper-class twits who 'bought' their regiments from Horse Guards and got their regiment into such a mess that enlisted men and NCOs who do the "real work" have to fix them while silently grumbling "He purchased his commission."
+
+What most people do not realize is that the PURCHASE SYSTEM was designed to weed out the weak and get only the dedicated into the leadership of the army. How, you may ask? Well, firstly... NO ONE COULD JUST WALK UP TO HORSE GUARDS AND ASK FOR A REGIMENT AFTER HANDING THEM A CHEQUE. That would be really really stupid.
+
+So, let us first remember that it was only in the Infantry and Cavalry that the Purchase System was used. Artillery, Navy and Engineers required more technical requirements for officership such as education credentials to be an officer.
+
+Yes, you didn't need a college degree to be an officer in the infantry or cavalry, but that doesn't mean there were no requirements at all.
+
+Firstly, you need to be 16+ and though no matter how rich or powerful your family or yourself was, you always, have to start at the lowest rank which was Ensign in the Infantry or Cornet for Cavalry.
+
+Then you must also have a respectable patron to back you up, whom the Commander in Chief of the British Army(a field marshal) feels is of good character and stock to take their support of you seriously. This is for most regiments except for the elite Guards regiment(these you must apply to directly).
+
+It should be reminded that the Purchase System wasn't always about money as "Free Commissions" were also given to gentleman rankers. People who could afford commissions but decided to sign up as rankers to prove themselves in the field before they could become full officers. Yep, you have to compete with them for an officer's spot. A lot of officers would have received at least one free commission because it's cheaper and therefore the leaders put them in first priority when advancing.
+
+Either way, let us concentrate on the paid method.
+
+Let us just think that a commission is practically a "stock" in which you invested money to hold your current rank. This appreciates or depreciates in value depending on the regiment's reputation, their posting somewhere in the world, etc.
+
+But since a person can only hold one rank at a time, therefore you can only have one "stock" at a time. You must sell off your old commission and pay the difference in advancing in rank with the proceeds gained. And acquiring the next rank isn't as easy as the British Army also functions on seniority, meaning anyone who has an older commission immediately gets the spot.
+
+Regardless, you need at least certain years of experience or "holding" on to your commission before you can advance to the next rank.
+
+People thinking of playing the "markets" of commissions by buying and selling to people of equal rank to join different regiments, must do well to remember that everytime they do so, they lose their seniority and become the most junior officer in their "new" regiment, regardless of how long they have served the army in total.. Hopping from regiment to regiment would make it almost impossible to advance as some asshole always gets the first right of refusal to advance before you.
+
+It is therefore more preferable to STICK TO YOUR OWN REGIMENT and only sell off your commission if the situation to yourself deems that it would help you in your advancement. Every higher rank is worth more in terms of value and in salary in the long term. If you think you've made enough and want to retire just before being shipped to battle, you coward, do realize you can't leave until you've served a minimum number of years HOLDING YOUR CURRENT COMMISSION(7 years for ensigns and cornets, 12 years for lieutenants, 15 years for captains).
+
+And don't forget - this is the army. You literally could get shot or die of disease somewhere along the way.
+
+But what is worse than that is being "cashiered" - a ceremony where an officer is deemed so incompetent, that they are stripped of rank publicly and his commission is taken from him. The commission is taken from you, meaning that you NO LONGER HAVE ANY RIGHT TO SELL IT OFF.
+
+To be cashiered is to be ruined financially and socially. Losing all your investments holding your career in the army is the main deterrent to preventing asshats from holding it in the first place.
+
+That's right, a purchased commission holds your wallet hostage and that means that you must really not care so much about losing your money along the way to be able to lead. That was the original design and purpose. Of course, it's not perfect as even the meritocratic method has its own nuances and flaws and blemishes of corruption and favoritism. Still, the Purchase System is about as ideal as the Meritocratic System.
+
+Remember the next time in a movie or a book you hear a soldier grumble about how his bumblefuck of an officer had "paid for his commission", what he's actually saying is "That guy literally risks everything just to serve in this army!"
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has delivered
+
+A Bunch of Rocks
+
+In Value Exchange For
+
+More Rocks
+
+A Trade Run of nothing but full combat gears because Irishkaiser was off being head chef. Actually sold nothing. At least they didn't decide to go PvPing after this and did more productive things in life.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+1 Combat Inventory
+
+In Exchange For
+
+Eh Pay Later
+
+Credit Suisse
+
+___
+
+PvP Drill 145th Mass PvP Event - Nuffen
+
+I dindu nuffen
+
+___
+
+DOMESTIC - PTR'S RELEASE WELCOMED BY APATHY IN THE UTC
+
+Where the pathetic distract the desperate for the mundane.
+
+___
+
+DOMESTIC - NEW COMPANY BASES ESTABLISHED VIA NEW ALTS
+
+These will help us strongly connect our one belt one road.
+
+___
+
+FINANCE - *CLAN BANK SCHEDULE AFFECTS IRISHKAISER SCHEDULE
+
+I'm making all ya'll paychecks now. So ya'll be grateful.
+
+___
+
+FINANCE - THIRD TELCO PLAY DELAYED - BRINGS ALMOST THOUSAND DOLLARS IN LOSSES
+
+A loss of over 40,000+ PHP was sustained after the Philippine government made the announcement that it has delayed announcing the third Telecommunications company from its supposed earlier. The Clan Bank backed the NOW Corporation, a Chinese-Filipino company over other candidates and things were going good until the announcement that it won't be until the 7th of November where they will finally announce, prompting people to back out as well until the date is closer.
+
+You know what sucks, they've delayed announcing for like how many times.
+
+Sick of playing the Telcos again for like the 3rd fucking time, the Clan Bank decided to stick to Mining, Logistics and smaller Communications companies to regain its losses.
+
+___
+
+FINANCE - NEW PLATFORM UPDATES
+
+Looks like Discord now, actually.
+
+___
+
+* **ORDERS:***
+
+1) Trade Run Next Week
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: DIRECTORY BRACES FROM POLICY CHANGE TO ACCOMMODATE TRADE RUN FINDINGS
+
+ASPERMONT, WESTERLANDS- The last highly profitable trade run has sparked an idea in one of the Directors who may find it contradicting with the current albeit modified We Will Bury Them policy. The strategy which has recently started to gain support beyond the UTC after Shotbow removed the Ender Eye and brought it back again.
+
+The strategy of the We Will Bury Them Policy, was a response to a suicide scare early in the year and certain angry Directory members opted to "trap" all the terrible people in MineZ and then make them play the game forever, using the UNKNOWN [?] Trading Company's existence as the basis to make them stay. All whilst telling the good people to leave the game if they can or at the very least avoid the main Shotbow forum, reddit or community.
+
+The strategy has had some success as certain people were reported to be more miserable than normal and stressing them out to make them "wallow in their own filth" for "choosing the wrong side". That and other certain UTC operations which are not at liberty to discuss.
+
+The Director during last trade run has encountered what he terms as "New Markets" or pockets of players yet exposed to MineZ's power play politics. These players are all scattered, isolated and rather disconnected, giving Irishkaiser an idea.
+
+This would in effect, for some, turn away from the We Will Bury Them Policy by making their stay in MineZ as enjoyable as we have each other instead of the standard "Nah, get the fuck outta here, man. This game's fucked, but you cool. Just warning you, bro."
+
+___
+
+EDITORIAL - The Belt and Road is How - When You Get An Idea
+
+Irishkaiser - The last trade run with OneZedArmy has given me another one of those moments where you get an idea that you just feel like is gonna be the next big thing. I would also like to document this feeling because I've experienced it before but never particularly expounded on the subject. Feelings are at times hard to describe, but this scene from The Men Who Built America, featuring Andrew Carnegie discovering an idea is captured well. First you are simply minding your own business having a problem, or on my case, nothing at all. And then you notice something. You just stop. Everything just doesn't matter as you try to process a once simple thought, trying to put things together.
+
+But here's the thing, at first, it seems "impossible", or a flight of fancy. Too much work at the current state. But then, the more you think about it... The more you will come to the conclusion that "nothing is impossible" and that it could be done.
+
+I felt it that day. And I also felt the choice because I've already planted my conviction to save all the good people and encourage certain others to stay in MineZ and fuck each other up. I remember the original reason and the ethics from which that stood and I also think I'm sacrificing that.
+
+But the idea is still there, calling out to me, telling me that if I go on this path now, I could do it. But will I? Would I risk their mental health and lives to keep playing this game, knowing full well the contact they would risk with certain undesirable non-people? I don't know.
+
+Maybe we can flirt with the idea. Maybe we can have both.
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has delivered
+
+3 Iron Pants
+
+3 Iron Boots
+
+3 Iron Chestplate
+
+1 Infinity Bow
+
+2 Diamond Swords
+
+In Value Exchange For
+
+32 Health Potions
+
+An Idea, Mr.Creedy
+
+A highly profitable trade run that has left me with an imprint. Also, like a road trip Irishkaiser began pestering OneZedArmy about the birthday of Asturias, to which he just kept quiet because he knows where that conversation is going.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+2 Diamond Swords
+
+In Exchange For
+
+Eh Pay Later
+
+Credit Suisse
+
+___
+
+PvP Drill 145th Mass PvP Event - Nuffen
+
+I dindu nuffen
+
+___
+
+DOMESTIC - REPOSITIONING NEXT WEEK
+
+You'll have your orders. Follow me then.
+
+___
+
+FINANCE - VERGATH TO VISIT VIETNAM AND CAMBODIA, LEAVES BANK TO OLD MAN KAISER
+
+Take out the stock ticker... And where's my actual certificates? What is this? I don't trust these new fangled computer doohickies.
+
+___
+
+* **ORDERS:***
+
+1) Trade Run Next Week. Mercenaries Exempt from joining.
+
+2) Follow Irishkaiser's Orders.
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH)
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: MA IRISHKAISER CALLS EVERYONE GARLIC BREAD OVER RETREAT TO CROWMURE 2018 DEBATE
+
+ASPERMONT, WESTERLANDS- Aspermont's Member of Assembly Irishkaiser erupted with insults against other Members over the consideration of the Retreat to Crowmure action that resulted in majority UTC kills and capture of Spookyfest loot for a Battle Honour. The Company Member at the time requested it for the reasons of being outnumbered, facing equally geared opponents and one of them being a highly suspected hacker, the other a top notch PvPer of the MineZ community. This was later found out to be a joke request taken too far from a request by another Company Member who reviewed the Battle and later pushed for it. The Company Member settled for having medals.
+
+Throughout the discussion, MA Irishkaiser was thoroughly bored by the choice of words and lack of rhetoric and wit among the participants, calling each and everyone of his fellow MAs as GARLIC BREADS because all he heard was:
+
+"Yadda yadda yadda GARLIC BREAD".
+
+Before spamming Westminster debates and sessions and comparing it to US Congress sessions by posting a video of casual, everyday English speaking lessons..
+
+It was only when the discussion shifted on to the topics of alcohol and cigars vs cigarettes or adult consumption material that there was some more passion and spirit into the discussion.
+
+___
+
+EDITORIAL - Geopolitics and Long-Term Considerations - the Case of Australia, China and the United States
+
+Irishkaiser - Nations always put national interest first and that is understandable, but sometimes there's a cultural perception or idea of who your friends are and what your place in the world is that can sometimes be wholly different to the national interests.
+
+Let us take a consideration into the status of Australia, which for many years held the title of America's best friend, surpassing even their relationship status with the United Kingdom. Why is that? Because Australia's prosperity and well-being is wholly dependent on its alliance with the most powerful navy in the world. Any navy that does not align or helps protect Australia's majority export economy is going to be huge leverage. When Britain rescinded, the United States quickly took its place and Australia, for the most part, secured its defense of its export economy by allying with the United States and providing assistance in its wars. For a small sacrifice not unlike a client city state of Rome, the Australians secure their security interests and therefore their economy.
+
+That's right, Canberra fights against the US' enemies, in order to help convince Washington that they're not getting the short end of the stick to maintain the alliance. They do not fight for freedom or whatever ideals you see on television. Like many nations, they fight to secure their wealth and security... By bombing some suspected goat herd thousands of miles away.
+
+But then comes the contradiction. Australia's biggest trading partner in both import and export is currently the People's Republic of China. Currently, tensions are boiling between the two. Australia's reliance on the United States Navy has turned into a double-edged sword. If the United States imposes a blockade against China, Australia will be devastated and could do nothing about it as the very thing they relied on in the first place would be working against them. Their interests would contradict and they'd have to choose one over the other.
+
+Canberra and Beijing both know this. I'm sure Washington also has an idea but isn't particularly putting it high on its list of priorities since it has other allies in the region. The policymakers of the former two countries are dealing with the situation in their own ways.
+
+Beijing wants to maintain itself as a viable market for Australian goods and vice versa, while Canberra is wary of putting all its eggs in one basket, making them consider diversifying their trading partners. Life is not a giant video game where clicking on buttons makes people do what you want because you're an Immortal God-King. Australian and Chinese citizens both may or may not go with the policies of either.
+
+Once China reaches the tipping point in 2050, Australia may begin to switch sides, depending on how things go. Contrary to popular belief, cultural perceptions and views can be changed overtime depending on political and practical expedience.
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has delivered
+
+2 Iron Pants
+
+2 Iron Boots
+
+2 Iron Helmets
+
+1 Infinity Bow
+
+In Exchange For
+
+14 Health Potions
+
+It was an iron pants day, not a single chestplate was harvested.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+Mercenary Services and What Not
+
+In Exchange For
+
+1 Spooky Mask
+
+I guess this counts as a tip? Any 93rd who wants it for dungeon just say so.
+
+___
+
+PvP Drill 145th Mass PvP Event - Nuffen
+
+I dindu nuffen
+
+___
+
+DOMESTIC - POLICYMAKERS NEARLY REACH GOAL
+
+The Foreign Office releases a report to the Directory concerning multiple clans and even certain staff, reporting on their status. Policymakers who have set out their objectives can only say this about the UNKNOWN [?] Trading Company - "We're winning. That is all. Also, let them wallow in their own filth."
+
+___
+
+FINANCE - AVVER STILL UNABLE TO SECURE. ALTERNATIVES LOOKED INTO
+
+The Bank of the Unknown [?] Clan has looked into alternatives considering Avver's search for a base in one of the most expensive cities in the world has turned fruitless has he keeps looking for good deals which are very difficult to find in the current market in the US.
+
+The alternatives have discovered multiple platforms for foreigners to ACTUALLY START INVESTING into the US stock markets, but unfortunately, they come with HIGH COMMISSIONS and FEES. Foreign investment into the US would not gain very much at all unless they're high risk traders and or big time ones.
+
+Strangely, the option is considered to be kept open.
+
+___
+
+* **ORDERS:***
+
+1) Trade Run Next Week. Mercenaries Exempt from joining.
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH
+
+HEADLINES
+
+EDITORIAL
+
+TRADE
+
+DRILLS
+
+DOMESTIC
+
+FINANCE
+
+ORDERS
+
+___
+HEADLINES: UTC BRANCH OF STUDIO GHIBLI RELEASES SCREENCAP OF UPCOMING HAMSTERZAKI FILM
+
+ASPERMONT, WESTERLANDS- Killao Hamsterzaki releases screencap of upcoming film Three AnCaps and a Commie sponsored by Chivas Regal™ based on the experiences of the six Company Members who met in real life in the Philippines.
+
+A soundtrack has been released to accompany the image as it was posted all over UTC social media. Killahamsta, working in Japan right now, studying and perfecting animation could be seen here being grumpy old Asian guy disappointed with everything
+
+Upon seeing the potentials of the current MineZ community, Killahamsta was reported saying "This is an insult to life itself..." and later after further investigation "I feel like we are nearing to the end of times... We humans are losing faith in ourselves."
+
+Tim Curry was also rumored to play the villain.
+
+The film will premiere in a film festival in Aspermont after, fuck I don't know.
+
+___
+
+EDITORIAL - Old Man Kaiser Addresses Spookyfest Requests
+
+Irishkaiser - Addressing the Regimentals and Company Members. Everyone else can just fuck off. Now, some of you have been goading me to join them in the Spookyfest Coalition, but except the EU mercernaries. You guys are cool. Some have even went so far as to joke about my capability or my intentions and therefore have INSULTED MY HONOR.
+
+I tell you, I've been in two Spookyfests the past two years. I have been the architect for its success(as there can be no strict definition of victory) for the UTC both. I have devised the tactics, strategies and even doctrines that have worked soundly throughout both. Hell, most of the current competitors even used the same tactics I came up with last year, with no innovation whatsoever.
+
+I have never, ever advocated being in Spookyfests for the sole purpose of competition. Anything we do, must be for the interests of our people and NOT for the acquisition of VIRTUAL ITEMS THAT HAVE NO INHERENT VALUE BECAUSE THEY'RE LITERALLY VIRTUAL. It was never my intention to compete for the sake of competing, for we do not compare ourselves to others.
+
+In fact, the VERY FIRST SPOOKYFEST was supposed to test out the new doctrines and tactics THAT I CAME UP WITH FOR OUR OWN BENEFIT. So we KNOW IF IT WORKS. It was in the pursuit of knowledge and for our good that I pushed for it. The second Spookyfest, I opposed and asked the Assembly for what good reason shall we participate? I remember one Right Honourable said that it was because we participated in the first one. Looking at you, Gun. What kind of circular logic is that. For what end do we do it for? Binding our status to the whims of foreigners.
+
+I conceded that as a month-long major exercise, but I had grown tired of the shallow materialism that it proliferated. What was the point of burning them anyway? The point was to demonstrated that IT WASN'T FOR THEM WE WERE FIGHTING FOR. WE WERE SUPPOSED TO FIGHT FOR EACH OTHER AND HAVE FUN FOR OUR OWN GOOD. Those who betrayed us for fake items themselves have even USED OUR OWN METHODS to demonstrate the same points when they themselves had issues with the admins.
+
+But then again, the majority of the Clan were Americans. The cursed, mongrel race that has no heart or ambition in its youth beyond their own self-indulgence. This is why they will never amount to anything more than what they could copy out of us. In the words of JRR Tolkien, through his character, Thorin Oakenshield: "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."
+
+I am sensitive to the insult of me sitting my ass off doing "nothing" and doing nothing. Then I showed you(you know who you are) a snippet of what I/we was/were doing, then you wondered why I couldn't just share it. I offered you the same job I was doing, you didn't want to do it.
+
+And so I continue with my denunciation of not just Spookyfest for its proliferation of shallow materialism, but its competitors as well. All are guilty of cheating or violating. I'm not just talking about the hackers who fine tune their clients as now if you do encounter a hacker there's about a 60-65% chance you're right now compared to 2016 where you were only 20% chance right, but also for the mindboggling proliferation of "penny alts". Penny alts are technically PAY TO WIN, as in that the money relative you spend increases your chances or gives you a method beyond what others could do. Not to mention that these alts are in violation of LORD MICROSOFT'S DECREES.
+
+As I have opposed Pay to Win in Shotbow before, I also oppose the proliferation of penny alts within fair competition. But then again, everyone in this God-awful game is a cheater. I've seen people even let them get away with it, such as Marine_PvP.
+
+But these are my thoughts on why I refuse to participate. By refusing, I do not support shallow materialism, I do not support cheating and I do not support pointless endeavors where I base my self-worth on the perception of others, especially ones who I personally deem as inferior from my own point of view.
+
+___
+
+TRADE - US MineZ Trade Run
+
+The Directory proudly announces that it has cancelled the Trade Run for War Games.
+
+___
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+2 Battle Inventories Export Model
+
+In Exchange For
+
+Pay them how you like him
+
+Another Spookyfest, another dollar.
+
+TRADE - US MineZ Trade
+
+The Directory proudly announces that it delivered.
+
+A long friendship
+
+In Exchange For
+
+1 alt
+
+Another one quits MineZ
+
+___
+
+PvP Drill 145th Mass PvP Event - ONE HUNDRED AND FORTY-FIVE. Why do I even place these anymore when the Foreign Office restricts them.
+
+We discovered something. Want to know more.
+
+___
+
+DOMESTIC - GEARING SERVICE METHOD OPENS UP CLAN GEARING FROM UTC
+
+Innovating a gearing method where a small group of people can gear up about multiple accounts(swords, armor, essentials) in a day, the 1st and 93rd Regiments of the UNKNOWN [?] Trading Company have refined a system of passing on some shit.
+
+Ah what the fuck, people are just gonna copy it now or admins are gonna remove it.
+
+___
+
+FINANCE - AVVER COMPLAINS ABOUT CALIFORNIA.
+
+Lives with hippies, can't get a bank yet. Prices too high.
+
+___
+
+* **ORDERS:***
+
+1) Trade Run Next Week. Mercenaries Exempt from joining.
+
+___
+
+THE [?] EMPIRE,THE COMPANY'S OFFICIAL NEWS SOURCE AND PROPAGANDA TOOL. AW YEAH

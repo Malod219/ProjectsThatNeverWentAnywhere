@@ -1,0 +1,128 @@
+For those working in a heavy backdrop of international development and globalization, some of them may have noticed that US specialists, technicians and advisers aren't much sought after. Countries want German engineers, Chinese specialists, Dutch advisers, but very few Americans are in demand. Of course that is not to say that American labor isn't valued, but a lot of the countries they're in tend to be... CIA-infested shitholes for some strange reason.
+
+How did this come to be? How could the most technologically advanced nation in the world not be a powerhouse in exporting specialists or people with degrees that require a high amount of study or practice? If science and technology are the engines of prosperity and the United States is a world leader, how come nobody wants their people which can logically be assumed to produce highly specialized intelligent laborers? Well, as many of you have probably realized growing-up, the United States' educational system is among one of the worst in the developed nations.
+
+So how come the US scientific establishment does not collapse? With generations of dummies graduating and entering into American industries every year, how come the US does not collapse and lag behind? Because America has one thing the others have not. Money. A lot of money. This capitalist country was for a long time the richest in the world and generally has less coercion from the state so individuals are free to innovate and have huge incentives for doing a good job(MONEY MONEY MONEY).
+
+No, I'm not saying stupid people get better when you throw money at them. If your country has a resource you don't have, what do you do? Simple. You import them.
+
+And this is why the H-1B Green Card or known by some as "the genius visa" is America's secret weapon.
+
+In the words of leading Physicist Michio Kaku:
+
+"... Forget about Google! Forget about Silicon Valley! There would be no Silicon Valley without the H-1B and you know what the H-1B is? It's the genius visa. Okay? You realize that in the United States 50% of all PhD candidates are foreign-born. At my system, one of the biggest in the United States, 100% of the PhD candidates are foreign-born. The United States is the magnet sucking up all the brains of the world...But..! Now the brains are going back! They're going back to China, they're going back to India, and people say 'Oh my God! There's a Silicon Valley in India now!', 'Oh my God! There's a Silicon Valley in China!'. Duh! where did they come from?
+
+[...] In the Wall Street Journal, editorials are against a congressman who wanted to ban the H-1B, saying they'll take jobs away from the American people. The Wall Street Journal said look there are no Americans who can take these jobs. These are at the highest level of high technology. They don't take away jobs for Americans they create entire industries! So that's why we have an Achilles heel and that's the educational system..."
+
+Ya'll are worthless, but ya'll have a lot of money. So I'll work for yo stupid ass as long as you keep paying.
+
+Some of you may be thinking "But Irish, are you pro-immigration now? HA YOU DO LOVE BEING BROWNED", well if you just read what I said in context and remember that I believe that different systems work best for different peoples, you will realize that I believe in common sense and controlled immigration. The H-1B visa is a type of immigration option that has specific requirements, meaning the candidate is educated in a scientific field and I don't know... CAN CONTRIBUTE TO THEIR NEW SOCIETY?
+
+So remember, kids. If someone's in a STEM field and they're American, whoo boy... They're the overpriced worthless piece of crap that breaks down easily. Made in China is better.
+
+Alright you morons. Since quite clearly too few of you give a fuck about security, I'm gonna walk you through physical security and how easy it is in some(Surprisingly many) situations. It's time for some PHYSICAL SECURITY 101.
+
+Lock your doors. If you leave it unlocked you're asking to be fucked. Lock your doors with non-standard locks, aka locks that don't accept a default key. Default keys exist for a LOT of shit. If you use a default key, you're asking for an educated robber to fuck you(Default keys are typically used for Air conditioning, Boiler rooms, kitchens etc, especially in hotels). Use locks that are hard enough to be picked. Picking locks is obvious as fuck, so(if you live on a busy enough street or have decent neighbours who give a fuck), most people won't do that. Lock your windows and close them. I've seen CCTV of morons who get robbed just because they left their window or their door unlocked or viable to be unlocked in an easy way. IF YOU'VE EVER USED A DEFAULT LOCK, LEFT DOORS OR WINDOWS UNLOCKED OR OPEN, YOU'VE FAILED PHYSICAL SECURITY 101. It's a known statistic that 20 per cent of burglaries in England and Wales from April 2005 to March 2015 involved access through unlocked doors and open windows. 1/5 of Burglaries are so simple it's sad..
+
+Some other physical security things. Close your doors inside, makes it harder to be scouted for whether a building is occupied or not(or for valuables). Have a suitably fenced off backyard/frontyard/alleyway if you have any of those things. Lock garages properly and securely. If they are disconnected from the building, I'd say don't store valuables in them(your risk if you do). Information considering how secure you are in your house depends on your context and situation as it always does. Consider the crime rate in your neighbourhood, consider other access points, consider how many keys to your room/house are in circulation(If you bought it off of a person, chances are that person gave keys to their family/friends who can access the house, meaning they can technically still access it unless you got new locks).
+
+More miscellaneous physical security stuff. RFID locks are secure, but only if your RFID cards are secure. RFID cards can be cloned, I've done it before(for ease of access in case I lose University cards or bus pass cards and a few others). Invest in properly secured and bolted down safe if you're storing enough valuable shit in your house(or use security through obscurity and store it inside a book you carve out). Internet of things devices are insecure and can be hacked to gain access(Largest botnet is due to insecure internet of things devices. People just don't update security for those devices.).
+
+Now for zany wacky stories in Physical security. Y'know those cameras which open on the inside if there's activity? They just check for infrared and not position of it(Some luxurious expensive ones check position/size but those can still be tricked). How to bypass? Vape. Load a lot of smoke in your mouth, breath it in the cracks up to the sensor. Looks like magic when it happens. If a door is locked on one side but unlocked on the other, tools exist to pull the lever on the other side(fairly common in offices). Finally, dumpster diving? Exciting stuff, you never know what you're gonna find. Sometimes electronics, sometimes furniture, sometimes video games n' shit. It's also a known fact that data can be leaked this way, it's low tech hacking. Dumpster dive behind an office building to find sensitive data. Usually it can be sold off or whistleblown if it's big enough. Also harddrives and other memory storage devices aren't a good idea to be thrown out without thorough demolition with explosives or hammers. People surprisingly don't securely delete data.
+
+That's all the objective shit about physical security. Now for a few things that piss me off. Firstly, is police and related resource allocation. It has to be done through shitty petition through the slow lumbering beast that is the Government. Yeah, private security exists at an extortionate price typically accepted by a few private security companies. This fact means the common person is going to see misallocation of police forces, failing to keep the common person secure. Is there a fix? I don't exactly know, due to the number of variables involved in creating a pressure that forces or allows for corrected allocation based on demand. The reason this pisses me off is I see 3 core important needs for Human Survival: Food, Water and Security(Shelter is a form of security from weather and sometimes animals).
+
+That's all Unknowns. Hopefully you leave this News feeling a little more enlightened in the specifics of PHYSICAL SECURITY. If it's failed, the consequences are devastating
+
+Final notes: Effort and time required to infiltrate, steal, cause chaos or whatever plays a factor. People go for low hanging fruit. Social Engineering and Cyber Security can play a part.
+
+Recommended learning for Security(Generalised):
+
+    Talks do exist on the subject for the curious
+
+    Some of the stuff in this list of books might be relevant
+
+    Where I go for general security discussions
+
+    A-Z of home security, Home Security handbook
+
+    Rigged shotgun
+
+The Great War impacted many nations, regardless of their degree of participation(Japan and the United States). The old power structure was broken and a new world had to be built, which must learn to accommodate the new realities of the day.
+
+Countless independence for many nations, Soviet emergence, autonomous Commonwealth movements, American participation and resignation from global affairs, Japanese naval dominance of the Far East, the end of three empires and the stage for an even bigger impact known as the Second World War.
+
+Truly the Great War set the course of the 20th century as the Napoleonic Wars did in the past for it decided the reality and fate of nations. But what did it achieve? We know that the Napoleonic Wars ended confidence in feudalistic traditions such as aristocratic supremacy. A nation was more than a king lording over a people, it was a group that felt common affinity and loyalty. That changed the way nations were governed.
+
+What did the Great War achieved? Well, firstly... There was a disillusionment with the promises of government. Power was no longer securely coming from the older classes, but rather from politicians and officials from outside the tainted clique of the buffoons who got them into that catastrophe in the first place.
+
+This was the most important as it help facilitated the rise of both National Socialist Germany and Soviet Russia and helped guide the course of the Second World War. Communist revolutions broke out everywhere and counter-revolutions also broke out.
+
+Secondly, the first true body of a global forum was set up - the League of Nations. The Concert of Europe only concerned the Great Powers who were mostly of European origin. But now, China, Japan and the US had entered the fray of global power politics and thus new dynamic zones sprung around the world, forcing everyone to talk to each other because they were so important.
+
+Third and perhaps the most important, it was the despondence of a generation now known today as the "Lost Generation" in the English speaking world and the Generation au Feu(Generation in Flames) in the Francophones. This was a generation that did not at all see any bright hope for the future, rather, they had an eerie bad feeling about it. A kind of nihilism that fed the ALL OR NOTHING attitude and gave appeal to Communist slogans such as "You have nothing to lose but your chains."
+
+Of course the degrees of it were different as they were radical in say Russia, but less radical in countries like the US and Britain. In Britain, the concern was more for the TOTALLY DISPROPORTIONATE AMOUNT OF UPPER-CLASS ARISTOCRATS WHO DIED DURING THE WAR, robbing the country of a future elite. Many felt that the flower of youth and the best manhood of the peoples had been mowed down.
+
+But as we all know here in the UTC, regardless of the outcome. The Best Is Yet to Come. Yadda yadda, join my new markets and apply for a visa
+
+A lot of people remember the movie Lord of War and particularly this scene that helped spread the truth about international arms sales loopholes that still pervade the modern trade.
+
+In the scene, Jack Valentine of Interpol acknowledges the loophole - that of shipping the vehicle and weapons separately to different clients at different addresses(but who can say where they will end up for sure?) - is valid but threatens Yuri that he may keep doing it but it's obviously so ridiculous that the United Nations will "close it any Goddamn day".
+
+Yuri counters by saying "But it's not closed." and what makes this scene age well up to today is this: that certain loophole IS STILL NOT CLOSED UP TO THIS DAY. In the modern day, major powers and arms exporters still use the same loophole by shipping vehicles and its "military parts" separately just like in the movie and nobody bats an eye.
+
+It is how countries still manage to support governments you think would have collapsed a long time ago. None of this is repeated in modern news media because the biggest arms dealer in the world is not some guy operating outside the law, it's the President of the United States, the President of Russia, President of China, Prime Minister of Britain, President of France... And even emerging powers such as Germany is in on it.
+
+Is it... Weird... That somehow... The big five... Are also the FIVE PERMANENT MEMBERS THAT SIT ON THE UNITED NATIONS SECURITY COUNCIL. YOU KNOW, THE ORGANIZATION THAT FRONTS FOR GLOBAL PEACE AND LIMITATIONS OF WAR SOMEHOW NOT WANT TO CLOSE DOWN THIS LOOPHOLE?
+
+Kind of suspicious, don'tcha think...
+
+In many movies and literature concerning the Age of Gunpowder, we have seen the British Army of the time staff its officer corps with bumbling upper-class twits who 'bought' their regiments from Horse Guards and got their regiment into such a mess that enlisted men and NCOs who do the "real work" have to fix them while silently grumbling "He purchased his commission."
+
+What most people do not realize is that the PURCHASE SYSTEM was designed to weed out the weak and get only the dedicated into the leadership of the army. How, you may ask? Well, firstly... NO ONE COULD JUST WALK UP TO HORSE GUARDS AND ASK FOR A REGIMENT AFTER HANDING THEM A CHEQUE. That would be really really stupid.
+
+So, let us first remember that it was only in the Infantry and Cavalry that the Purchase System was used. Artillery, Navy and Engineers required more technical requirements for officership such as education credentials to be an officer.
+
+Yes, you didn't need a college degree to be an officer in the infantry or cavalry, but that doesn't mean there were no requirements at all.
+
+Firstly, you need to be 16+ and though no matter how rich or powerful your family or yourself was, you always, have to start at the lowest rank which was Ensign in the Infantry or Cornet for Cavalry.
+
+Then you must also have a respectable patron to back you up, whom the Commander in Chief of the British Army(a field marshal) feels is of good character and stock to take their support of you seriously. This is for most regiments except for the elite Guards regiment(these you must apply to directly).
+
+It should be reminded that the Purchase System wasn't always about money as "Free Commissions" were also given to gentleman rankers. People who could afford commissions but decided to sign up as rankers to prove themselves in the field before they could become full officers. Yep, you have to compete with them for an officer's spot. A lot of officers would have received at least one free commission because it's cheaper and therefore the leaders put them in first priority when advancing.
+
+Either way, let us concentrate on the paid method.
+
+Let us just think that a commission is practically a "stock" in which you invested money to hold your current rank. This appreciates or depreciates in value depending on the regiment's reputation, their posting somewhere in the world, etc.
+
+But since a person can only hold one rank at a time, therefore you can only have one "stock" at a time. You must sell off your old commission and pay the difference in advancing in rank with the proceeds gained. And acquiring the next rank isn't as easy as the British Army also functions on seniority, meaning anyone who has an older commission immediately gets the spot.
+
+Regardless, you need at least certain years of experience or "holding" on to your commission before you can advance to the next rank.
+
+People thinking of playing the "markets" of commissions by buying and selling to people of equal rank to join different regiments, must do well to remember that everytime they do so, they lose their seniority and become the most junior officer in their "new" regiment, regardless of how long they have served the army in total.. Hopping from regiment to regiment would make it almost impossible to advance as some asshole always gets the first right of refusal to advance before you.
+
+It is therefore more preferable to STICK TO YOUR OWN REGIMENT and only sell off your commission if the situation to yourself deems that it would help you in your advancement. Every higher rank is worth more in terms of value and in salary in the long term. If you think you've made enough and want to retire just before being shipped to battle, you coward, do realize you can't leave until you've served a minimum number of years HOLDING YOUR CURRENT COMMISSION(7 years for ensigns and cornets, 12 years for lieutenants, 15 years for captains).
+
+And don't forget - this is the army. You literally could get shot or die of disease somewhere along the way.
+
+But what is worse than that is being "cashiered" - a ceremony where an officer is deemed so incompetent, that they are stripped of rank publicly and his commission is taken from him. The commission is taken from you, meaning that you NO LONGER HAVE ANY RIGHT TO SELL IT OFF.
+
+To be cashiered is to be ruined financially and socially. Losing all your investments holding your career in the army is the main deterrent to preventing asshats from holding it in the first place.
+
+That's right, a purchased commission holds your wallet hostage and that means that you must really not care so much about losing your money along the way to be able to lead. That was the original design and purpose. Of course, it's not perfect as even the meritocratic method has its own nuances and flaws and blemishes of corruption and favoritism. Still, the Purchase System is about as ideal as the Meritocratic System.
+
+Remember the next time in a movie or a book you hear a soldier grumble about how his bumblefuck of an officer had "paid for his commission", what he's actually saying is "That guy literally risks everything just to serve in this army!"
+
+The last trade run with OneZedArmy has given me another one of those moments where you get an idea that you just feel like is gonna be the next big thing. I would also like to document this feeling because I've experienced it before but never particularly expounded on the subject. Feelings are at times hard to describe, but this scene from The Men Who Built America, featuring Andrew Carnegie discovering an idea is captured well. First you are simply minding your own business having a problem, or on my case, nothing at all. And then you notice something. You just stop. Everything just doesn't matter as you try to process a once simple thought, trying to put things together.
+
+But here's the thing, at first, it seems "impossible", or a flight of fancy. Too much work at the current state. But then, the more you think about it... The more you will come to the conclusion that "nothing is impossible" and that it could be done.
+
+I felt it that day. And I also felt the choice because I've already planted my conviction to save all the good people and encourage certain others to stay in MineZ and fuck each other up. I remember the original reason and the ethics from which that stood and I also think I'm sacrificing that.
+
+But the idea is still there, calling out to me, telling me that if I go on this path now, I could do it. But will I? Would I risk their mental health and lives to keep playing this game, knowing full well the contact they would risk with certain undesirable non-people? I don't know.
+
+Maybe we can flirt with the idea. Maybe we can have both.
+
+
+
